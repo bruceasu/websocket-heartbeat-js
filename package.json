@@ -28,9 +28,9 @@
     "lib"
   ],
   "bugs": {
-    "url": "https://github.com/zimv/websocket-heartbeat-js/issues"
+    "url": "https://github.com/bruceasu/websocket-heartbeat-js/issues"
   },
-  "homepage": "https://github.com/zimv/websocket-heartbeat-js#readme",
+  "homepage": "https://github.com/bruceasu/websocket-heartbeat-js#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
